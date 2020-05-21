@@ -8,9 +8,5 @@ Router::set('/index.php', "App:home");
 
 Router::set('/about', "App:about");
 
-Router::set('/home', "App:home1");
-
-Router::set('/form', "App:formHandler");
-
 
 Router::validRoutes();
