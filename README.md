@@ -2,7 +2,7 @@
 
 info: é uma classe static.
 
-###Como usar?
+### Como usar?
 
 O router é composto de uma classe com tres metodos.
 
